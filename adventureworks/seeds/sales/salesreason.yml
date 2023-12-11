@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: salesreason
     config: 
-      schema: sales
+      schema: adventureworks_dim_model
       column_types: 
         salesreasonid: integer
         name: varchar

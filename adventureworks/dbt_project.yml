@@ -28,4 +28,4 @@ models:
   adventureworks:
     marts:
       +materialized: table
-      +schema: marts
+      +schema: adventureworks_dim_model

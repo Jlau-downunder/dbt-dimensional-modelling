@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: product
     config: 
-      schema: production
+      schema: adventureworks_dim_model
       column_types: 
         productid: integer
         name: varchar

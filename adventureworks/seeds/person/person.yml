@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: person
     config: 
-      schema: person
+      schema: adventureworks_dim_model
       column_types: 
         businessentityid: integer
         title: varchar

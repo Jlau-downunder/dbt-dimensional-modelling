@@ -3,7 +3,7 @@ version: 2
 seeds: 
   - name: creditcard
     config: 
-      schema: sales
+      schema: adventureworks_dim_model
       column_types: 
         creditcardid: integer
         cardtype: varchar
